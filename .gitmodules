@@ -1,0 +1,6 @@
+[submodule "my-html-project/submodules/test1"]
+	path = my-html-project/submodules/test1
+	url = https://github.com/GoForMusic/submodule-test-1
+[submodule "my-html-project/submodules/test2"]
+	path = my-html-project/submodules/test2
+	url = https://github.com/GoForMusic/submodule-test-2
